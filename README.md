@@ -1,2 +1,1 @@
-# django_example_musics
-简单的django实例
+一个django基础示例
